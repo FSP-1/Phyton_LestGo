@@ -1,0 +1,1 @@
+print("Hey world im starting to learn how to used phyton and also to write in my keyboard whitout looking it")
